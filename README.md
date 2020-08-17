@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <a href="https://plantechhub.com"><img src="https://portal.plantechhub.com/favicon.ico" alt="PlantechHub" /></a>
   <a href="https://github.com/rsflaherty"><img src="https://img.shields.io/badge/Github--_.svg?label=GitHub&style=social&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/richard-flaherty"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" /></a>
 </p>
